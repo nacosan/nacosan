@@ -44,7 +44,7 @@ he enfocado mi educación a este ámbito, aprendiendo más cada día.
 ## 📂 Proyectos destacados
 
 - [**Programación .NET con BBDD**](https://github.com/nacosan/.NET_y_Mysql/tree/main/Proyectos/ConsoleGestAlmacen%20-%20.net%20MVC) — Breve proyecto sobre la implementación de MySql o SqlServer, gracias a trabajar con un MVC. 
-- [**Página Web personal**]([enlace-al-proyecto](https://github.com/nacosan/.NET_y_Mysql/tree/main/Proyectos/nacoart3d/nacoart3d)) — WIP. Actualmente, estoy desarrollando mi propia página web para una tienda, aunque se podría enfocar en cualquier ámbito. 
+- [**Página Web personal**](https://github.com/nacosan/.NET_y_Mysql/tree/main/Proyectos/nacoart3d/nacoart3d) — WIP. Actualmente, estoy desarrollando mi propia página web para una tienda, aunque se podría enfocar en cualquier ámbito. 
 ---
 
 ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna idea, ¡no dudes en contactarme! 🚀
