@@ -1,4 +1,4 @@
-# ¡Hola, soy nacosan! 👋
+# ¡Hola, soy Nacho! 👋
 
 <img align="right" src="https://raw.githubusercontent.com/nacosan/nacosan/main/assets/coding.png" width="250" alt="Coding gif">
 
