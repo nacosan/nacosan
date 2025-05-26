@@ -1,6 +1,6 @@
 # ¡Hola, soy nacosan! 👋
 
-<img align="right" src="https://raw.githubusercontent.com/nacosan/nacosan/main/assets/coding.gif" width="250" alt="Coding gif">
+<img align="right" src="https://raw.githubusercontent.com/nacosan/nacosan/main/assets/coding.png" width="250" alt="Coding gif">
 
 ¡Bienvenido a mi perfil de GitHub!  
 Soy un apasionado del desarrollo y la tecnología, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
